@@ -1,0 +1,113 @@
+h1 {
+	background: none;
+    display: block;
+    padding-top: 0;
+    font-size: 2.8em;
+    line-height: 1em;
+    color: #009713;
+    font-weight: 900;
+    font-family: "BerninoSans-Web-Condensed","BerninoSans-Web",Arial,sans-serif !important;
+    margin: 0 0 15px 0;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #6b717b;
+    font-weight: 500;
+    line-height: 1.3em;
+    margin: 0 0 15px 0;
+}
+
+.contentTopLeftKeyBlockSpecs, .contentTopLeftKeyBlockFeatures {
+    padding: 20px 0;
+    display: block;
+}
+
+.topShadowLight {
+    border-top: 1px solid #eaebed;
+    background-image: url(/Codeigniter/assets/css/img/bottomShadowSmall2-top-eaebed-2.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: -1px 0 0 0;
+}
+
+.clearfix:before, .clearfix:after {
+    display: table;
+    content: " ";
+}
+
+
+#aAllSpecsLarge, #aAllFeaturesLarge {
+    padding-left: 10px;
+    padding-bottom: 8px;
+    font-size: 12px;
+}
+
+.contentTopLeftKey{
+	line-height: 1.828571429;
+}
+
+.modelSlideshowContainer {
+    padding-top: 15px;
+}
+
+.modelPhoto {
+    text-align: center;
+}
+.carouselMain {
+    margin: 0 0 6px 0;
+}
+.noMarginleft {
+    margin-left: 0 !important;
+}
+
+#mainSwipePrev.centerSwipeControls, #mainSwipeNext.centerSwipeControls, #mainSwipePrevMobile.centerSwipeControls, #mainSwipeNextMobile.centerSwipeControls {
+    margin-top: 30%;
+}
+
+#mainSwipePrev, #catSwipePrev, #mainSwipePrevMobile {
+    position: absolute;
+    left: 0;
+    margin-left: 1%;
+    font-size: 2.5em;
+    width: auto !important;
+}
+
+#mainSwipePrevMobile.centerSwipeControls, #mainSwipeNextMobile.centerSwipeControls {
+    margin-top: 30%;
+}
+.modelSlideshowContainer #mainSwipeNext {
+    margin-right: 4%;
+}
+
+#mainSwipeNext, #catSwipeNext, #mainSwipeNextMobile {
+    position: absolute;
+    right: 0;
+    margin-right: 1%;
+    font-size: 2.5em;
+    width: auto !important;
+}
+
+.contentMiddleRow {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #eaebed;
+}
+
+.containerCollapse {
+	
+   	padding: 20px 0 0 0;
+	background-color: #fff;
+	    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.hide-bullets {
+list-style:none;
+margin-left: -40px;
+margin-top:20px;
+}
+
